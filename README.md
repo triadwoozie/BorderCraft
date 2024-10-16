@@ -1,4 +1,4 @@
-# BorderCraft PDF Generator
+# BorderCraft Border Generator
 
 **BorderCraft PDF Generator** is a Python-based tool that allows users to create customized PDF documents with adjustable borders, margins, page sizes, and colors. It provides an intuitive interface to specify the number of pages and modify document aesthetics, ensuring tailored outputs for various needs.
 
