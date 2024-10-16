@@ -82,10 +82,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## Author
-
-[Your Name](https://github.com/yourusername)
-
 ## Acknowledgments
 
 - Thanks to the [ReportLab](https://www.reportlab.com/) team for their excellent library.
