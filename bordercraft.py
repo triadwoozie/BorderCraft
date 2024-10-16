@@ -77,7 +77,7 @@ def main():
         # Create the document
         create_document(file_name, paper_size, margin, border_thickness, page_color, border_color, num_pages)
         
-        rerun = input("Is the result correct? (y/n): ").lower()
+        rerun = input("File has been generated, Is the result correct? (y/n): ").lower()
         if rerun == 'y':
             break
 
